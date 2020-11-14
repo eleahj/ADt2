@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1005121976871-7i5orbhlcvoiurn5rincc12vgrqp8bcq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1005121976871-7i5orbhlcvoiurn5rincc12vgrqp8bcq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1005121976871-mkdfmousj5r2fqfvlms65q2u7lk5e3iv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrXcXbsTm918Re4u7HwzgZY7zf3QhsEzk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005121976871</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dyne.foodbuddy</string>
+	<key>PROJECT_ID</key>
+	<string>foodbuddy-93b55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodbuddy-93b55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005121976871:ios:8245c1f2615dfcdd6cec02</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodbuddy-93b55.firebaseio.com</string>
+</dict>
+</plist>
